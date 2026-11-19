@@ -1,4 +1,4 @@
-# CSC-201-assignment
+# CSC-201/207-assignment
 # Odd or Even Checker
 
 A simple C++ program that determines whether a given integer is odd or even.
